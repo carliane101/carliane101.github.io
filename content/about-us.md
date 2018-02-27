@@ -1,7 +1,7 @@
 +++
 title = "About Us"
 draft = false
-weight = 0
+weight = 10
 +++
 
 Comprehensive technical and policy support for your company's energy and environmental projects

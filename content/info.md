@@ -1,7 +1,7 @@
 +++
 title = "Company Data"
 draft = false
-weight = 0
+weight = 50
 +++
 
 * California Dept. of General Services Micro Small Business Enterprise 

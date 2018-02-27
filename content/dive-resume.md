@@ -1,7 +1,7 @@
 +++
 title = "Dive Resume"
 draft = false
-weight = 0
+weight = 20
 +++
 
 <b>SeaJay Environmental can provide dive support services for your 
