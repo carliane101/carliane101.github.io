@@ -68,3 +68,13 @@ evidence.
 British Virgin Islands, Mexico, Costa Rica, Curaçao, Belize, Puerto Rico, 
 Saba and Dry Tortugas. 
 
+| Organization/Agency | Certification       | Date     | Instructor/#       |
+|---------------------|---------------------|----------|--------------------|
+| NOAA                | Science Diver       | Aug 2012 | Steve Lonhart/NOAA |
+| NAUI                | Open Water          | Dec 1988 | Dan Orr/5612       |
+| NAUI                | Rescue Diver        | Feb 1990 | Dan Orr/5612       |
+| NACD                | Cave Diver          | Apr 1992 | Steve Gerrard/I-39 |
+| NAUI                | Reef Research Diver | Aug 2004 | Bill Horn/17511    |
+| FSU ADB             | Nitrox              | Dec 1989 | Gregg Stanton/FSU  |
+| DAN                 | First Aid/CPI/AED   | Jan 2016 | Steve Lanhart/NOAA |
+
