@@ -10,7 +10,8 @@ disableKinds=["RSS"]
   description = '<!--[-->
       Meeting your environmental consulting needs above and below the water
     <!--]--><br />'
-  logo = "SeaJayEnv"
+#  logo = "SeaJayEnv"
+  logoimage = "profile.png"
   copyright = "SeaJay Environmental LLC 2018"
 
 [[params.social]]
