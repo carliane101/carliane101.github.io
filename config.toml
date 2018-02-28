@@ -1,5 +1,5 @@
-#baseurl = "http://seajayenv.com"
 baseurl = "https://ag4ve.github.io/seajayenv"
+#baseurl = "http://seajayenv.com"
 title = "SeaJay Environmental"
 theme = "dimension"
 languageCode = "en-us"
@@ -7,6 +7,9 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 publishDir = "docs"
+# for github demo
+relativeURLs = true 
+canonifyURLs = true
 
 [params]
   description = '<!--[-->
