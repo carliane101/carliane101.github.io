@@ -13,3 +13,4 @@ weight = 50
 * NAICS 541620 (Env. Consulting Services)
 * DUNS #967690079
 
+## [Statement of qualifications](qualifications.pdf)
