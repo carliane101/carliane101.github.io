@@ -1,4 +1,5 @@
-baseurl = "http://seajayenv.com"
+#baseurl = "http://seajayenv.com"
+baseurl = "https://ag4ve.github.io/seajayenv/"
 title = "SeaJay Environmental"
 theme = "dimension"
 languageCode = "en-us"
