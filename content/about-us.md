@@ -4,6 +4,8 @@ draft = false
 weight = 10
 +++
 
+![sailboat](bw-sailboat.png)
+
 Comprehensive technical and policy support for your company's energy and environmental projects
 
 SeaJay Environmental is a woman-owned, small business consulting firm that 
@@ -62,6 +64,11 @@ between Monterey and Carmel, California, and within the Monterey Bay
 National Marine Sanctuary. Counted invasive species (primarily Watersipora) 
 in 1-meter quadrats along transect lines.
 
+![bryozoan](bryozoan.png)
+
+Invasive bryozoan, Watersipora subtorquata, in Monterey Bay, California. 
+(Photo by Steve Lonhart)
+
 # Energy Policy
 
 ## Shell Exploration & Production Company 
@@ -99,8 +106,12 @@ procedures for sediment curtains and gabion boxes; and for site
 preparation, soil removal and disposal activities of contaminated 
 sediments. Also reviewed quality assurance plans. 
 
-Invasive bryozoan, Watersipora subtorquata, in Monterey Bay, California. 
-(Photo by Steve Lonhart)
+![platform](platform.png)
+
+Industry-Government dive expedition to Flower Garden Banks National Marine 
+Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
+is being considered for decommissioning as a possible artificial reef. 
+(Photo by Carliane Johnson)
 
 # Carliane Johnson
 
@@ -117,4 +128,6 @@ Plano, Texas, in 2012.
 
 Carliane is also an experienced sailor and solo racer with her 38-foot 
 sailboat, Kynntana.
+
+## [Statement of qualifications](qualifications.pdf)
 
