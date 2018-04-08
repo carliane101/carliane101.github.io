@@ -6,6 +6,11 @@ weight = 30
 
 ## Reports resulting from SeaJay Environmental project Support
 
+[Non-native species colonization of highly diverse, wave swept outer coast habitats 
+in Central California](https://link.springer.com/epdf/10.1007/s00227-018-3284-4?author_access_token=ZMjPFzEDEer-xOxHQ3VNbve4RwlQNchNByi7wbcMAY6O8RRdy3gKA1iFv9sFB9qVLp9JQUAIME2XavWNDuSHlOJj5f3a5npNTeYOpdGjXxE0dqlStRftEKAVI6h1yKC5Wok_EIhBlT-4IO7jMotzOw%3D%3D) (Zabin, et al., 2018, Marine Biology 166:31)
+
+___
+
 <u>Biological Resources Assessment for the Half Moon Bay Yacht Club Dock 
 Expansion Project</u> (2015)
 
