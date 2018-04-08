@@ -11,19 +11,21 @@ Comprehensive technical and policy support for your company's energy and environ
 SeaJay Environmental is a woman-owned, small business consulting firm that 
 specializes in analyzing energy and environmental policies, providing 
 regulatory compliance support, preparing environmental impact assessments, 
-storm water monitoring, pollution prevention planning, stakeholder 
-engagements, workshop facilitation, and other direct project management 
-support.
+conducting water quality monitoring, providing pollution prevention recommendations, 
+engaging in stakeholder support and outreach, conducting workshops and trainings, and
+providing other project management support services.
 
-SeaJay Environmental provides high quality, time sensitive and cost-effective 
-services to clients. We have served government agencies, non-profit 
+SeaJay Environmental is committed to providing clients with high quality, time sensitive and 
+cost-effective deliverables. We have served government agencies, non-profit 
 organizations and commercial entities since our founding in 2007.
 
 SeaJay Environmental also works with a network of environmental experts 
 across the sciences and engineering disciplines to meet the demands of more 
 complex projects while maintaining value and responsiveness to clients. 
-This effective operating model is very conducive to providing high quality 
-services without excessive overhead.
+This effective operating model is very conducive to ensuring high quality, 
+independent experts without excessive overhead. 
+
+Listed below are representative projects:
 
 # Environmental Consulting
 
@@ -31,15 +33,15 @@ services without excessive overhead.
 
 SeaJay Environmental is providing safety and botanical support services to 
 RJRudy LLC during field surveys at the U.S. Army's National Training Center,
-Fort Irwin, CA. The works consists of daily safety briefings then general 
-flora and threatened and endangered species plant surveys within 284 
+Fort Irwin, CA. The works consists of daily safety briefings followed by field surveys 
+conducting general flora and threatened and endangered species plant transects within 284 
 one-hectare plots, 11 springs, 10 playas, and approximately 30 additional 
 areas of interest on the base. Voucher specimens are also being collected.
 
 ## San Francisco Estuary Institute 
 
 Carliane Johnson with SeaJay Environmental led a water quality monitoring team
-in the collection of watershed samples. The work was part of the James V. 
+in the collection of watershed samples that was part of the James V. 
 Fitzgerald Project Area of Special Biological Significance Pollution Reduction
 Program. The data were used to evaluate differences in contaminant concentrations 
 from stormwater discharges into this marine reserve, which is recognized as one
@@ -47,17 +49,17 @@ of the richest, most biodiverse intertidal environments on the California coast.
  
 ## Greater Farallones National Marine Sanctuary (GFNMS)
 
-SeaJay Environmental provided contract staff support to the sanctuary. Responsibilities
-included reviewing applications and issuing permits for research, education and salvage
-activities proposed in GFNMS, as well as in the northern area of Monterey Bay National
+SeaJay Environmental provided contract staff support to the Greater Farallones National Marine Sanctuary (GFNMS). 
+Responsibilities included reviewing applications and issuing permits for proposed research, education and salvage
+activities in GFNMS, as well as in the northern area of Monterey Bay National
 Marine Sanctuary (MBNMS). Other activities included responding to vessel grounding 
 incidents and overseeing the White Shark Stewardship Program. During the course of the
-work, two environmental assessments (EAs) were prepared. One was related to impacts
-associated with white shark research and tourism. The other was to assess
-impacts from U.S. Coast Guard live fire training discharges in the sanctuaries. The work
-involved careful public records administration, such as tracking of comments received, 
-compiling citations used, and documenting all communications with stakeholders, other state
-and federal agency staffs, and the permit applicants. Support to GFNMS legal counsel was 
+work, two environmental assessments (EAs) were prepared. One was a programmatic EA related to impacts
+associated with white shark research and tourism. The other EA was to assess
+water quality imapcts from U.S. Coast Guard live fire training discharges in GFNMS and Cordell Bank National 
+Marine Sanctuary. The work involved careful public records administration, such as tracking of public comments, 
+compiling the administrative record, and documenting all communications with stakeholders, other state
+and federal agency staffs, and permit applicants. Support to GFNMS legal counsel was 
 also provided during several permit appeals. Other project work included assisting the GFNMS
 office in its documentation of and discussions with U.S. Coast Guard to consider realigning
 the commercial vessel traffic separation lanes offshore San Francisco. This effort led to
@@ -68,11 +70,11 @@ with commercial vessel traffic.
 ## National Marine Fisheries Service Office of Protected Resources. 
 
 SeaJay Environmental staff created a SQL database to support and analyze
-Automatic Information System (AIS) data that were used to assess the effectiveness
+Automatic Information System (AIS) data that were then used to assess the effectiveness
 of a rule requiring vessels 65 feet and longer in length to slow their speeds to 
 10 knots or less near key port entrances along the U.S. Eastern seaboard and in 
 certain North Atlantic right whale (Eubalaena glacialis) aggregation sites known
-as Seasonal Management Areas. Monthly reports were sent to seventeen international
+as Seasonal Management Areas. Monthly reports were also sent to seventeen international
 shipping companies to help them ensure compliance of United States law within their fleets.
 
 ## Smithsonian Environmental Research Center
@@ -87,7 +89,7 @@ lines.
 
 SeaJay Environmental conducted a biological assessment of the water and land
 resources surrounding the Half Moon Bay Yacht Club related to a proposed 
-floating dock and pier for a California Coastal Development permit..234
+floating dock and pier for a California Coastal Development permit.
 
 ![bryozoan](bryozoan.png)
 
@@ -101,24 +103,23 @@ Invasive bryozoan, Watersipora subtorquata, in Monterey Bay, California.
 SeaJay Environmental is providing on-call consulting services to Shell 
 Exploration and Production Company. The work includes providing regulatory
 support and conducting research on various topics (e.g., marine sound,
-protected species, air and water permitting, proposed federal regulations, 
-decomissioning platforms as artificial reefs) that are pertinent to Shell’s 
+protected species, air emissions and water discharges, proposed federal regulations, 
+decomissioning platforms as artificial reefs, etc.) that are relevant to Shell’s 
 domestic offshore oil and gas activities. 
 
 ## 40-hour Hazardous Waste Operations and Emergency Response (HAZWOPER) Training
 
 Carliane Johnson with SeaJay Environmental is providing on-call support to
-Weber Readiness conducting 40-hour HAZWOPER training courses to energy and 
+Weber Readiness by conducting 40-hour HAZWOPER training sessions to energy and 
 transportation industries.
  
 ## Offshore Operators Committee 
 
-Organized an industry workshop to better understand the scope of medical 
+SeaJay Environmental organized an industry workshop to better understand the scope of medical 
 evacuation assets, practices, and available procedures in federal waters 
-of the Gulf of Mexico. Then prepared the workshop report on best management 
-practices and gaps. Organized another workshop on sandblasting and surface 
-coating operations in the marine environment. The purpose of that workshop 
-was to obtain best management practices from offshore operators and their 
+of the Gulf of Mexico. This resulted in a workshop report on best management practices and gaps. 
+Another workshop was organized on sandblasting and surface coating operations in the marine environment, which 
+was intended to obtain best management practices from offshore operators and their 
 contractors related to procedures used to minimize the discharge of spent 
 blast abrasives and paint overspray in the Gulf of Mexico. 
  
@@ -126,8 +127,8 @@ blast abrasives and paint overspray in the Gulf of Mexico.
 
 SeaJay Environmental prepared a regulatory document summarizing the applicable
 international legal framework pertaining to the discharge of drill cuttings 
-containing non-aqueous drilling residues and issues related to the potential
-use of thermal-treatment technology to clean those cuttings. 
+containing non-aqueous drilling residues. The document also included current research 
+on issues of concern related to the potential use of thermal-treatment technology to clean those cuttings. 
 
 ## O'Brien's Response Management 
 
@@ -141,15 +142,15 @@ Also reviewed quality assurance plans.
 ## RJRudy LLC
 
 Carliane Johnson with SeaJay Environmental is the Safety Officer for
-RJRudy during flora surveys at Fort Irwin Army Base in the Mojave Desert.
+RJRudy during flora surveys at Fort Irwin Army Base (CA) in the Mojave Desert.
 Issues of concern include unexploded ordnance, heat stress, poisionous 
 snakes, and entanglements.
 
 ![platform](platform.png)
 
-Industry-Government dive expedition to Flower Garden Banks National Marine 
-Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
-is being considered for decommissioning as a possible artificial reef. 
+SeaJay Environmental participated in an Industry-Government dive expedition to Flower 
+Garden Banks National Marine Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
+was being considered for decommissioning as a possible artificial reef. 
 (Photo by Carliane Johnson)
 
 # Carliane Johnson
