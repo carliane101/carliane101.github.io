@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#about-us</loc>
+    <loc>https://ag4ve.github.io/seajayenv/about-us/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#dive-resume</loc>
+    <loc>https://ag4ve.github.io/seajayenv/dive-resume/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#reports</loc>
+    <loc>https://ag4ve.github.io/seajayenv/reports/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#services</loc>
+    <loc>https://ag4ve.github.io/seajayenv/services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#info</loc>
+    <loc>https://ag4ve.github.io/seajayenv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#</loc>
+    <loc>https://ag4ve.github.io/seajayenv/categories/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/#</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ag4ve.github.io/seajayenv/#</loc>
+    <loc>https://ag4ve.github.io/seajayenv/tags/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   

@@ -1,4 +1,5 @@
 User-agent: *
-Allow: /
+# robotstxt.org - if ENV production variable is false robots will be disallowed.
 
-Sitemap: https://ag4ve.github.io/seajayenv/sitemap.xml
+  Disallow: /
+
