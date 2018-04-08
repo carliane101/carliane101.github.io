@@ -4,7 +4,7 @@ draft = false
 weight = 30
 +++
 
-## Reports resulting from SeaJay Environmental project Support
+## Reports Resulting From SeaJay Environmental Project Support (hyperlinked to PDF, if available) 
 
 <u>Biological Resources Assessment for the Half Moon Bay Yacht Club Dock 
 Expansion Project</u> (2015)
@@ -12,7 +12,20 @@ Expansion Project</u> (2015)
 SeaJay Environmental conducted an on-site and desk-top assessment of 
 biological resources in the vicinity of the Half Moon Bay Yacht Club in 
 Pillar Point Harbor, California, for an eventual coastal development permit 
-related to a dock expansion project. 
+related to a dock expansion project. The report included a review of local airport
+restrictions, potential impacts to the viewshed as a result of the project and 
+how the project could be affected in case of a tsunami.
+___
+
+[Draft Environmental Assessment: Regulation of United States Coast Guard
+Vessel and Training Discharges in Greater Farallones and Cordell Bank
+National Marine Sanctuaries](https://nmsfarallones.blob.core.windows.net/farallones-prod/media/docs/20171122-draft-ea-regulation-of-uscg-discharges.pdf) (2017)
+
+SeaJay Environmental helped in the drafting of this EA to assess the impacts of allowing the
+United States Coast Guard (USCG) to continue discharging in areas within Greater Farallones and
+Cordell Bank national marine sanctuaries (GFNMS and CBNMS) during routine vessel operations and
+training for “live fire” and search and rescue (SAR) activities. The draft EA addressed the effects if
+GFNMS and CBNMS regulations were to be amended to continue to allow these discharges.
 ___
 
 [Draft Programmatic Environmental Assessment of Potential White Shark 
