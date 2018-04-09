@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://seajayenv.com/about-us/</loc>
+    <loc>http://localhost/about-us/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/dive-resume/</loc>
+    <loc>http://localhost/dive-resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/reports/</loc>
+    <loc>http://localhost/reports/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/services/</loc>
+    <loc>http://localhost/services/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/</loc>
+    <loc>http://localhost/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/info/</loc>
+    <loc>http://localhost/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/categories/</loc>
+    <loc>http://localhost/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://seajayenv.com/tags/</loc>
+    <loc>http://localhost/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
