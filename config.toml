@@ -3,6 +3,7 @@ title = "SeaJay Environmental"
 baseURL = "http://seajayenv.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
