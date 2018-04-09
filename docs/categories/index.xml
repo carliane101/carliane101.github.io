@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SeaJay Environmental</title>
-    <link>http://ag4ve.github.io/seajayenv/categories/</link>
+    <link>https://ag4ve.github.io/seajayenv/categories/</link>
     <description>Recent content in Categories on SeaJay Environmental</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://ag4ve.github.io/seajayenv/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ag4ve.github.io/seajayenv/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
