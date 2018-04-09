@@ -1,6 +1,6 @@
 title = "SeaJay Environmental"
-baseURL = "https://ag4ve.github.io/seajayenv"
-#baseURL = "http://seajayenv.com"
+#baseURL = "https://ag4ve.github.io/seajayenv"
+baseURL = "http://seajayenv.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -29,3 +29,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/header.jpg"
   recent_posts_number = 0
+  custom_css = "/css/project.css"
