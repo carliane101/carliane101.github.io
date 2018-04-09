@@ -1,6 +1,4 @@
 title = "SeaJay Environmental"
-#baseURL = "https://ag4ve.github.io/seajayenv"
-baseURL = "http://seajayenv.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
