@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/about-us/</loc>
+    <loc>http://seajayenv.com/about-us/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/dive-resume/</loc>
+    <loc>http://seajayenv.com/dive-resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/reports/</loc>
+    <loc>http://seajayenv.com/reports/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/services/</loc>
+    <loc>http://seajayenv.com/services/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/</loc>
+    <loc>http://seajayenv.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/info/</loc>
+    <loc>http://seajayenv.com/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/categories/</loc>
+    <loc>http://seajayenv.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ag4ve.github.io/seajayenv/tags/</loc>
+    <loc>http://seajayenv.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
