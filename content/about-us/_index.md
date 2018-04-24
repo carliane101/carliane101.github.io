@@ -4,7 +4,7 @@ draft = false
 weight = 10
 +++
 
-![sailboat](bw-sailboat.png)
+![sailboat](/bw-sailboat.png)
 
 Comprehensive technical and policy support for your company's energy and environmental projects
 
@@ -91,7 +91,7 @@ SeaJay Environmental conducted a biological assessment of the water and land
 resources surrounding the Half Moon Bay Yacht Club related to a proposed 
 floating dock and pier for a California Coastal Development permit.
 
-![bryozoan](bryozoan.png)
+![bryozoan](/bryozoan.png)
 
 Invasive bryozoan, Watersipora subtorquata, in Monterey Bay, California. 
 (Photo by Steve Lonhart)
@@ -146,7 +146,7 @@ RJRudy during flora surveys at Fort Irwin Army Base (CA) in the Mojave Desert.
 Issues of concern include unexploded ordnance, heat stress, poisionous 
 snakes, and entanglements.
 
-![platform](platform.png)
+![platform](/platform.png)
 
 SeaJay Environmental participated in an Industry-Government dive expedition to Flower 
 Garden Banks National Marine Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
