@@ -1,133 +1,35 @@
-+++
-title = "About Us"
-draft = false
-weight = 10
-+++
+# About Us
 
-![sailboat](bw-sailboat.png)
+**SeaJay Environmental** is a small business consulting firm based in Oakland that delivers regulatory guidance and policy support for the maritime and renewable energy industries.  SeaJay Environmental is a certified Small Business/Microbusiness by the State of California Department of General Services and a U.S. Small Business Administration (SBA) Woman-Owned Small Business.
 
-Comprehensive technical and policy support for your company's energy and environmental projects
+We provide high quality, time-sensitive, and cost-effective project support to clients. This includes analyzing proposed legislation and regulatory actions, providing environmental compliance support, compiling administrative records, and editing technical documents to ensure they are written clearly and are legally defensible. We have served government agencies, non-profit organizations, and commercial entities since our founding in 2007. Some examples of these services include:
 
-SeaJay Environmental is a woman-owned, small business consulting firm that 
-specializes in analyzing energy and environmental policies, providing 
-regulatory compliance support, preparing environmental impact assessments, 
-storm water monitoring, pollution prevention planning, stakeholder 
-engagements, workshop facilitation, and other direct project management 
-support.
+* Preparing U.S. and international documents that summarize regulatory requirements and potential risks for proposed offshore energy and telecommunications projects
+* Providing regulatory support to ensure proper handling, lab analysis, and disposal of hazardous waste and permit renewals
+* Conducting stormwater discharge monitoring and reporting
+* Querying AIS data to create and send monthly reports to international shipping companies to show compliance with North Atlantic right whale speed restrictions
+* Organizing industry workshops to gather information for better understanding of best practices and suggestions for improvement
+* Collecting environmental data and conducting risk assessments for offshore wind projects on the U.S. east and west coasts, and the Gulf
+* Providing incident response support for oil spill releases (both actual and drills)
+* Facilitating and supporting resource management planning processes
+* Compiling meeting notes from technical workshops to scientific committee meetings to public hearings
+* Conducting in-depth literature reviews of natural communities to document environmental baseline conditions and analyze potential impacts of projects
+* Conducting Hazardous Waste Operations and Emergency Response (HAZWOPER) training
 
-SeaJay Environmental provides high quality, time sensitive and cost-effective 
-services to clients. We have served government agencies, non-profit 
-organizations and commercial entities since our founding in 2007.
+It is our mission to provide seamless environmental consulting support services to clients to help manage risk and protect the environment by ensuring strategic and technically superior deliverables. We pursue complex marine and terrestrial projects, especially those that involve new environmental policy issues or innovative mitigation approaches, that balance conservation and protection efforts with federal, state, and local regulatory requirements.
 
-SeaJay Environmental also works with a network of environmental experts 
-across the sciences and engineering disciplines to meet the demands of more 
-complex projects while maintaining value and responsiveness to clients. 
-This effective operating model is very conducive to providing high quality 
-services without excessive overhead.
-
-
-# Environmental Consulting
-
-## San Francisco Estuary Institute 
-
-Led a water quality monitoring team to collect watershed samples as part 
-of the James V. Fitzgerald Project Area of Special Biological Significance 
-Pollution Reduction Program. The data were used to evaluate differences in 
-contaminant concentrations from stormwater discharges into this marine 
-reserve. The reserve is recognized as one of the richest, most biodiverse 
-intertidal environments on the California coast.
- 
-## Greater Farallones National Marine Sanctuary 
-
-Contractor to the sanctuary providing permitting support related to 
-proposed research, education and salvage projects. Also coordinating the 
-White Shark Stewardship Program, attending GFNMS and community meetings, 
-and assisting with other resource protection activities such as helping to 
-develop modifications to the San Francisco Traffic Separation Scheme and 
-responding to vessel groundings.
- 
-## National Marine Fisheries Service Office of Protected Resources. 
-
-Created a SQL database to support and analyze Automatic Information System 
-(AIS) data that were used to assess the effectiveness of a rule requiring 
-vessels 65 feet and greater in length to slow their speeds to 10 knots or 
-less near key port entrances along the U.S. Eastern seaboard and in 
-certain North Atlantic right whale aggregation sites known as Seasonal 
-Management Areas. Monthly reports were also sent to seventeen international 
-shipping companies to help them ensure compliance of United States law 
-within their fleets.
-
-## Smithsonian Environmental Research Center
-
-Provided dive support for an invasive species survey in the kelp forests 
-between Monterey and Carmel, California, and within the Monterey Bay 
-National Marine Sanctuary. Counted invasive species (primarily Watersipora) 
-in 1-meter quadrats along transect lines.
-
-![bryozoan](bryozoan.png)
-
-Invasive bryozoan, Watersipora subtorquata, in Monterey Bay, California. 
-(Photo by Steve Lonhart)
-
-# Energy Policy
-
-## Shell Exploration & Production Company 
-
-On-call consultant providing regulatory support and conducting research on 
-various topics (e.g., marine sound, protected species, air and water 
-permitting, proposed federal regulations, artificial reefs) pertinent to 
-Shell’s domestic offshore oil and gas activities. 
- 
-## Offshore Operators Committee 
-
-Organized an industry workshop to better understand the scope of medical 
-evacuation assets, practices, and available procedures in federal waters 
-of the Gulf of Mexico. Then prepared the workshop report on best management 
-practices and gaps. Organized another workshop on sandblasting and surface 
-coating operations in the marine environment. The purpose of that workshop 
-was to obtain best management practices from offshore operators and their 
-contractors related to procedures used to minimize the discharge of spent 
-blast abrasives and paint overspray in the Gulf of Mexico. 
- 
-## Walsh Perú S.A. 
-
-Prepared a regulatory document summarizing the applicable international 
-legal framework pertaining to the discharge of drill cuttings containing 
-non-aqueous drilling residues and issues related to the potential use of 
-thermal-treatment technology to clean those cuttings. 
-
-
-## O'Brien's Response Management 
-
-Provided incident response support for the Enbridge pipeline spill in 
-Michigan. Evaluated proposed oil treatment options for environmental 
-effects on marsh and wetland habitats. Prepared standard operating 
-procedures for sediment curtains and gabion boxes; and for site 
-preparation, soil removal and disposal activities of contaminated 
-sediments. Also reviewed quality assurance plans. 
 
 ![platform](platform.png)
 
 Industry-Government dive expedition to Flower Garden Banks National Marine 
 Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
-is being considered for decommissioning as a possible artificial reef. 
+was being considered for decommissioning as a possible artificial reef. 
 (Photo by Carliane Johnson)
 
-# Carliane Johnson
+**SeaJay Environmental** operates under the following codes:
+* NAICS 541620 (Env. Consulting Services)
+* DUNS #967690079
+* CAGE Code 6BXY3 
+* California DGS #1738217
 
-As the owner and principal consultant for SeaJay Environmental, Carliane 
-brings more than 25 years of experience in energy policy, regulatory support 
-and environmental consulting.
-
-Carliane received her B.Sc in Biology and Chemistry from Florida State 
-University, Tallahassee, Florida. She is trained and certified as a science 
-diver under the NOAA Diving Program, and as a search and recovery diver for 
-the Alameda County (CA) Sheriff's Department. She is certified as a 
-Protected Species Observer through training provided by Geo-Marine, Inc. in 
-Plano, Texas, in 2012.
-
-Carliane is also an experienced sailor and solo racer with her 38-foot 
-sailboat, Kynntana.
-
-## [Statement of qualifications](qualifications.pdf)
 
