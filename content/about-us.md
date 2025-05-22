@@ -33,3 +33,4 @@ was being considered for decommissioning as a possible artificial reef.
 * CAGE Code 6BXY3 
 
 
+## [Statement of qualifications](qualifications.pdf)
