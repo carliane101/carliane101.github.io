@@ -4,7 +4,25 @@ draft = false
 weight = 30
 +++
 
-## Reports resulting from SeaJay Environmental project Support
+## Reports resulting from SeaJay Environmental project support
+
+
+
+[California Floating Offshore Wind Regional Ports Feasibility Analysis](https://www.boem.gov/sites/default/files/documents/regions/pacific-ocs-region/BOEM-2023-038.pdf#:~:text=The%20purpose%20of%20this%20report%20is%20to%20further,Ports%20Assessment%2C%20BOEM%202023-010%20%28Moffatt%20%26%20Nichol%202023%29) (2023)
+
+SeaJay's team provided support to Moffatt & Nichol, which involved evaluating permit feasibility and environmental risks that could affect costs related to possible upgrades at fifteen seaport sites in California for offshore wind. This resulted in a 2023 report to the Bureau of Ocean Energy Management.
+
+
+___
+
+[Environmental Data Catalog for the Humboldt Wind Area](https://www.pointblue.org/tools-and-guidance/research/environmental-catalog-for-the-humboldt-wind-area/) (2022)
+
+[Environmental Data Catalog for the Humboldt Wind Area](https://www.pointblue.org/tools-and-guidance/research/environmental-data-catalog-for-the-morro-bay-wind-energy-area/) (2022)
+
+Supported Point Blue Conservation Science in the preparation of two separate environmental data catalogs for the Humboldt Bay and Morro Bay offshore wind energy areas, which were used to support California resource agencies during their coastal consistency review of a federal offshore wind lease sale that was held December 2022.
+
+
+___
 
 <u>Biological Resources Assessment for the Half Moon Bay Yacht Club Dock 
 Expansion Project</u> (2015)
@@ -13,7 +31,10 @@ SeaJay Environmental conducted an on-site and desk-top assessment of
 biological resources in the vicinity of the Half Moon Bay Yacht Club in 
 Pillar Point Harbor, California, for an eventual coastal development permit 
 related to a dock expansion project. 
+
+
 ___
+
 
 [Draft Programmatic Environmental Assessment of Potential White Shark 
 Research and Education Projects Within the Gulf of the Farallones and 
