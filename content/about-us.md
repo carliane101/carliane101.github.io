@@ -1,22 +1,21 @@
 # About Us
 
-**SeaJay Environmental** is a small business consulting firm based in Oakland that delivers regulatory guidance and policy support for the maritime and renewable energy industries.  SeaJay Environmental is a certified Small Business/Microbusiness by the State of California Department of General Services and a U.S. Small Business Administration (SBA) Woman-Owned Small Business.
+**SeaJay Environmental LLC** is a small, woman-owned business specializing in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects who can provide the highest level of support and expert advice to save money and time to meet critical deadlines. 
 
-We provide high quality, time-sensitive, and cost-effective project support to clients. This includes analyzing proposed legislation and regulatory actions, providing environmental compliance support, compiling administrative records, and editing technical documents to ensure they are written clearly and are legally defensible. We have served government agencies, non-profit organizations, and commercial entities since our founding in 2007. Some examples of these services include:
+Our core areas of work include: 
 
-* Preparing U.S. and international documents that summarize regulatory requirements and potential risks for proposed offshore energy and telecommunications projects
-* Providing regulatory support to ensure proper handling, lab analysis, and disposal of hazardous waste and permit renewals
-* Conducting stormwater discharge monitoring and reporting
-* Querying AIS data to create and send monthly reports to international shipping companies to show compliance with North Atlantic right whale speed restrictions
-* Organizing industry workshops to gather information for better understanding of best practices and suggestions for improvement
-* Collecting environmental data and conducting risk assessments for offshore wind projects on the U.S. east and west coasts, and the Gulf
-* Providing incident response support for oil spill releases (both actual and drills)
-* Facilitating and supporting resource management planning processes
-* Compiling meeting notes from technical workshops to scientific committee meetings to public hearings
-* Conducting in-depth literature reviews of natural communities to document environmental baseline conditions and analyze potential impacts of projects
-* Conducting Hazardous Waste Operations and Emergency Response (HAZWOPER) training
+* Permitting feasibility, strategy, and application preparation
+* Regulatory compliance including workplace training
+* Non-technical risk assessments and gaps analyses
+* Preparation of environmental or biological assessments
+* Agency consultations and stakeholder engagements
+* Technical editing and due diligence to secure financial backing
+* Tracking of the administrative record including agency correspondence and community feedback
+* Litigation support and quality reviews to ensure documents are written clearly and are legally defensible
+* Preparation of pollution prevention, spill response, and best management practices plans
+* Analysis and advice regarding emerging federal and state policy concerns
 
-It is our mission to provide seamless environmental consulting support services to clients to help manage risk and protect the environment by ensuring strategic and technically superior deliverables. We pursue complex marine and terrestrial projects, especially those that involve new environmental policy issues or innovative mitigation approaches, that balance conservation and protection efforts with federal, state, and local regulatory requirements.
+It is our mission to provide seamless environmental consulting support services to clients to help manage risk and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews. 
 
 
 ![platform](platform.png)
@@ -27,9 +26,10 @@ was being considered for decommissioning as a possible artificial reef.
 (Photo by Carliane Johnson)
 
 **SeaJay Environmental** operates under the following codes:
+* System for Award Management (SAM.gov) Unique Entity ID SD92UNFSQK64
+* California Department of General Services #1738217
 * NAICS 541620 (Env. Consulting Services)
 * DUNS #967690079
 * CAGE Code 6BXY3 
-* California DGS #1738217
 
 
