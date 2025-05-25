@@ -5,7 +5,7 @@
 Our core areas of work include: 
 
 * Permitting feasibility, strategy, and application preparation
-* Regulatory compliance including workplace training
+* Regulatory compliance including workplace training and annual drills and exercises
 * Non-technical risk assessments and gaps analyses
 * Preparation of environmental or biological assessments
 * Agency consultations and stakeholder engagements
