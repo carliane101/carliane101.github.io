@@ -3,7 +3,7 @@ baseURL = "http://seajayenv.com"
 #baseURL = "https://ag4ve.github.io/seajayenv/"
 #baseURL = "."
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 publishDir = "docs"
 
 MetaDataFormat = "yaml"
