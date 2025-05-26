@@ -17,9 +17,7 @@ relativeURLs = true
 canonifyURLs = true
 
 [params]
-  description = '<!--[-->
-      Meeting your environmental consulting needs above and below the water
-    <!--]--><br />'
+  description = "Meeting your environmental consulting needs above and below the water"
 #  logo = "SeaJayEnv"
   logoimage = "profile.png"
   copyright = "SeaJay Environmental LLC 2018"
