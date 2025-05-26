@@ -12,7 +12,6 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 disableKinds=["RSS"]
-publishDir = "docs"
 # for github demo
 relativeURLs = true 
 canonifyURLs = true
