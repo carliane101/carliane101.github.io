@@ -11,8 +11,38 @@ in Central California](https://link.springer.com/epdf/10.1007/s00227-018-3284-4?
 
 ___
 
-<u>Biological Resources Assessment for the Half Moon Bay Yacht Club Dock 
-Expansion Project</u> (2015)
+
+
+[California Floating Offshore Wind Regional Ports Feasibility Analysis](https://www.boem.gov/sites/default/files/documents/regions/pacific-ocs-region/BOEM-2023-038.pdf#:~:text=The%20purpose%20of%20this%20report%20is%20to%20further,Ports%20Assessment%2C%20BOEM%202023-010%20%28Moffatt%20%26%20Nichol%202023%29) (2023)
+
+SeaJay's team provided support to Moffatt & Nichol, which involved evaluating permit feasibility and environmental risks that could affect costs related to possible upgrades at fifteen seaport sites in California for offshore wind. This resulted in a 2023 report to the Bureau of Ocean Energy Management.
+
+
+___
+
+[Environmental Data Catalog for the Humboldt Wind Area](https://www.pointblue.org/tools-and-guidance/research/environmental-catalog-for-the-humboldt-wind-area/) (2022)
+
+[Environmental Data Catalog for the Humboldt Wind Area](https://www.pointblue.org/tools-and-guidance/research/environmental-data-catalog-for-the-morro-bay-wind-energy-area/) (2022)
+
+Supported Point Blue Conservation Science in the preparation of two separate environmental data catalogs for the Humboldt Bay and Morro Bay offshore wind energy areas, which were used to support California resource agencies during their coastal consistency review of a federal offshore wind lease sale that was held December 2022.
+
+___
+
+
+[Invasive House Mice Eradication Project "DRAFT Operatoinal Plan" (see Appendix D, page 44 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
+
+[Invasive House Mice Eradication Project "DRAFT Mitigation and Monitoring Plan" (see Appendix E, page 87 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
+
+[Invasive House Mice Eradication Project "DRAFT Bait Spill Contingency Plan" (see Appendix F, page 112 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
+
+[Invasive House Mice Eradication Project "DRAFT Non-Target Species Contingency Plan" (see Appendix G, see page 146 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
+
+Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. The drafts of these plans had been request by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge. The plans were requested to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
+
+___
+
+[Biological Resources Assessment for the Half Moon Bay Yacht Club Dock 
+Expansion Project](https://smharbor.specialdistrict.org/files/3cb8f6bc3/2016_10_05_HMBYC_Dock_Expansion_Project_Biological%20Assessment_6-10-16.pdf) (2015)
 
 SeaJay Environmental conducted an on-site and desk-top assessment of 
 biological resources in the vicinity of the Half Moon Bay Yacht Club in 
@@ -32,6 +62,7 @@ Cordell Bank national marine sanctuaries (GFNMS and CBNMS) during routine vessel
 training for “live fire” and search and rescue (SAR) activities. The draft EA addressed the effects if
 GFNMS and CBNMS regulations were to be amended to continue to allow these discharges.
 ___
+
 
 [Draft Programmatic Environmental Assessment of Potential White Shark 
 Research and Education Projects Within the Gulf of the Farallones and 
