@@ -1,20 +1,22 @@
-baseurl = "https://ag4ve.github.io/seajayenv"
-#baseurl = "http://seajayenv.com"
+#baseurl = "https://carliane101.github.io/seajayenv"
+baseurl = "http://seajayenv.com"
 title = "SeaJay Environmental"
 languageCode = "en-us"
 theme = "ananke"
-publishDir = "docs"
+publishDir = "public"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 disableKinds=["RSS"]
 # for github demo
 relativeURLs = true 
 canonifyURLs = true
+
+[pagination]
+  pagerSize = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
   description = "Meeting your environmental consulting needs above and below the water"
