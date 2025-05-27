@@ -1,5 +1,5 @@
 #baseurl = "https://carliane101.github.io/seajayenv"
-baseurl = "http://seajayenv.com"
+baseurl = "https://seajayenv.com"
 title = "SeaJay Environmental"
 languageCode = "en-us"
 theme = "ananke"
