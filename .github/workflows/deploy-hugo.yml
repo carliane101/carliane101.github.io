@@ -28,16 +28,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-
-name: Update CNAME
-on:
-  push:
-    branches:
-      - gh-pages
-  workflow_run:
-    workflows: ["pages-build-deployment"]
-    types:
-      - completed
 jobs:
   update-cname:
     runs-on: ubuntu-latest
