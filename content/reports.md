@@ -6,12 +6,17 @@ weight = 30
 
 ## Reports resulting from SeaJay Environmental project support
 
+[Glen Canyon Dam Adaptive Management Program - Minutes of the Working Group] (https://) (2025)
 
+[Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group] (https://) (2022)
+
+SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee formed by the Department of Interior's Bureau of Land Management. The purpose of the Glen Canyon Dam Adaptive Management Program was to...
+
+___
 
 [California Floating Offshore Wind Regional Ports Feasibility Analysis](https://www.boem.gov/sites/default/files/documents/regions/pacific-ocs-region/BOEM-2023-038.pdf#:~:text=The%20purpose%20of%20this%20report%20is%20to%20further,Ports%20Assessment%2C%20BOEM%202023-010%20%28Moffatt%20%26%20Nichol%202023%29) (2023)
 
 SeaJay's team provided support to Moffatt & Nichol, which involved evaluating permit feasibility and environmental risks that could affect costs related to possible upgrades at fifteen seaport sites in California for offshore wind. This resulted in a 2023 report to the Bureau of Ocean Energy Management.
-
 
 ___
 
@@ -32,7 +37,7 @@ ___
 
 [Invasive House Mice Eradication Project "DRAFT Non-Target Species Contingency Plan" (see Appendix G, see page 146 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
 
-Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. The drafts of these plans had been request by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge. The plans were requested to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
+Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. These plans had been request in draft form by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge. The plans were requested to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
 
 ___
 
@@ -61,14 +66,10 @@ proposed research and ecotourism activities on white sharks in the GFNMS
 and Monterey Bay National Marine Sanctuary.
 ___
 
-[James V. Fitzgerald Area of Special Biological Significance Pollution 
-Reduction Program Pilot BMP Summary 
-Report](http://smchealth.org/sites/default/files/docs/EHS/Pilot_Phase_Fitz_Report_130328_final.pdf) 
-(2013)<br>
-San Francisco Estuary Institute
+[James V. Fitzgerald Area of Special Biological Significance Pollution Reduction Program Pilot BMP Summary Report](http://smchealth.org/sites/default/files/docs/EHS/Pilot_Phase_Fitz_Report_130328_final.pdf) (2013)
 
 SeaJay Environmental assisted the San Francisco Estuary Institute in a 
-stormwater monitoring project with the County of San Mateo Department of 
+stormwater monitoring pilot project with the County of San Mateo Department of 
 Public Works and Parks. The monitoring was conducted to evaluate several 
 types of structural stormwater treatment best management practices and low 
 impact development practices that the county had implemented at six 
