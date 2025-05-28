@@ -3,7 +3,7 @@ baseurl = "https://seajayenv.com"
 title = "SeaJay Environmental"
 languageCode = "en-us"
 theme = "ananke"
-publishDir = "public"
+publishDir = "./"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
