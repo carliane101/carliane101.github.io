@@ -1,6 +1,6 @@
 # About Us
 
-**SeaJay Environmental LLC** is a small, woman-owned business specializing in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects who can provide the highest level of support and expert advice to save money and time to meet critical deadlines. 
+**SeaJay Environmental LLC** is a small business with more than 30 years of experience in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to save money and time while meeting critical deadlines. 
 
 Our core areas of work include: 
 
@@ -13,9 +13,9 @@ Our core areas of work include:
 * Tracking of the administrative record including agency correspondence and community feedback
 * Litigation support and quality reviews to ensure documents are written clearly and are legally defensible
 * Preparation of pollution prevention, spill response, and best management practices plans
-* Analysis and advice regarding emerging federal and state policy concerns
+* Analysis of federal and state energy and envionmental policies and legislation
 
-It is our mission to provide seamless environmental consulting support services to clients to help manage risk and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews. 
+It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the resource agencies. 
 
 **Our Clients** range from federal agencies, non-profit organizations, large corporations, to small enterprises. Here is a sampling:
 
