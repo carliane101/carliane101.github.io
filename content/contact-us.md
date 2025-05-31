@@ -2,7 +2,7 @@
 title: Contact Us
 weight: 100
 ---
-# About Us
+# Contact Us
 ---
 
 carliane@seajayenv.com
