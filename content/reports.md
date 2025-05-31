@@ -6,12 +6,11 @@ weight = 30
 
 ## Reports resulting from SeaJay Environmental project support
 
-[Glen Canyon Dam Adaptive Management Program - Minutes of the Working Group] (https://) (2025)
+[Glen Canyon Dam Adaptive Management Program - Minutes of the Working Group](https://www.usbr.gov/uc/progact/amp/amwg/2024-08-22-amwg-meeting/20240822-AMWGMeeting-Minutes-508-AMWQD.pdf) (2025)
 
-[Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group] (https://) (2022)
+[Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group](https://www.usbr.gov/uc/progact/amp/twg/2023-04-13-twg-meeting/20230413-TWGMeeting-FinalMeetingMinutes-508-UCRO.pdf) (2023)
 
-SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee formed by the Department of Interior's Bureau of Land Management. The purpose of the Glen Canyon Dam Adaptive Management Program was to...
-
+SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee of the U.S. Department of Interior's Bureau of Land Management, which is mandated by Congress to operate the Glen Canyon Dam and regulate the Colorado River to meet the many and varied statutory goals. The Glen Canyon Dam Adaptive Management Program provides a forum to bring these varied interests to a consensus on protecting downstream resources while balancing river operations. Members include federal cooperating agencies, Tribes, Colorado River basin states, environmental groups, recreation interests, and contractors for federal power from the Glen Canyon Dam.
 ___
 
 [California Floating Offshore Wind Regional Ports Feasibility Analysis](https://www.boem.gov/sites/default/files/documents/regions/pacific-ocs-region/BOEM-2023-038.pdf#:~:text=The%20purpose%20of%20this%20report%20is%20to%20further,Ports%20Assessment%2C%20BOEM%202023-010%20%28Moffatt%20%26%20Nichol%202023%29) (2023)
