@@ -17,6 +17,23 @@ Our core areas of work include:
 
 It is our mission to provide seamless environmental consulting support services to clients to help manage risk and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews. 
 
+**Our Clients** range from federal agencies, non-profit organizations, large corporations, to small enterprises. Here is a sampling:
+
+* U.S. Fish and Wildlife Service
+* NOAA Fisheries (National Marine Fisheries Service)
+* Greater Farallones National Marine Sanctuary
+* Bureau of Reclamation
+* San Francisco Estuary Institute
+* WeberReadiness
+* Shell Oil Company
+* 48 North Solutions
+* Bay Ship & Yacht
+* Kelley Drye & Warren LLP
+* Michels Risk Management
+* Moffatt & Nichol
+* Offshore Operators Committtee
+* San Matao County Harbor District
+* Walsh Perú
 
 ![platform](platform.png)
 
@@ -31,6 +48,3 @@ was being considered for decommissioning as a possible artificial reef.
 * NAICS 541620 (Env. Consulting Services)
 * DUNS #967690079
 * CAGE Code 6BXY3 
-
-
-## [Statement of qualifications](qualifications.pdf)
