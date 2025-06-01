@@ -1,6 +1,10 @@
 ---
-title: Contact Us
-weight: 100
+Title: "Contact Us"
+# weight: 100
+hideSummary: false
+comments: false
+draft: false
+
 ---
 
 carliane@seajayenv.com
