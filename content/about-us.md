@@ -6,7 +6,7 @@ comments: false
 draft: false
 ---
 
-**SeaJay Environmental LLC** is a small business with more than 30 years of experience in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to save money and time while meeting critical deadlines. 
+**SeaJay Environmental LLC** is a small business with more than 30 years of experience in project management support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to save money and time while meeting critical deadlines. 
 
 Our core areas of work include: 
 
