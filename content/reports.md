@@ -1,16 +1,18 @@
 ---
-title: Reports
-weight: 50
+Title: "Reports"
+# weight: 30
+hideSummary: false
+comments: false
+draft: false
 ---
 
 ## Reports resulting from SeaJay Environmental project support
 
-[Glen Canyon Dam Adaptive Management Program - Minutes of the Working Group] (https://) (2025)
+[Glen Canyon Dam Adaptive Management Program - Minutes of the Working Group](https://www.usbr.gov/uc/progact/amp/amwg/2024-08-22-amwg-meeting/20240822-AMWGMeeting-Minutes-508-AMWQD.pdf) (2025)
 
-[Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group] (https://) (2022)
+[Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group](https://www.usbr.gov/uc/progact/amp/twg/2023-04-13-twg-meeting/20230413-TWGMeeting-FinalMeetingMinutes-508-UCRO.pdf) (2023)
 
-SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee formed by the Department of Interior's Bureau of Land Management. The purpose of the Glen Canyon Dam Adaptive Management Program was to...
-
+SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee of the U.S. Department of Interior's Bureau of Land Management, which is mandated by Congress to operate the Glen Canyon Dam and regulate the Colorado River to meet the many and varied statutory goals. The Glen Canyon Dam Adaptive Management Program provides a forum to bring these varied interests to a consensus on protecting downstream resources while balancing river operations. Members include federal cooperating agencies, Tribes, Colorado River basin states, environmental groups, recreation interests, and contractors for federal power from the Glen Canyon Dam.
 ___
 
 [California Floating Offshore Wind Regional Ports Feasibility Analysis](https://www.boem.gov/sites/default/files/documents/regions/pacific-ocs-region/BOEM-2023-038.pdf#:~:text=The%20purpose%20of%20this%20report%20is%20to%20further,Ports%20Assessment%2C%20BOEM%202023-010%20%28Moffatt%20%26%20Nichol%202023%29) (2023)
@@ -19,11 +21,11 @@ SeaJay's team provided support to Moffatt & Nichol, which involved evaluating pe
 
 ___
 
-[Environmental Data Catalog for the Humboldt Wind Area](https://www.pointblue.org/tools-and-guidance/research/environmental-catalog-for-the-humboldt-wind-area/) (2022)
+[Environmental Data Catalog for the Humboldt Wind Energy Area](https://www.pointblue.org/tools-and-guidance/research/environmental-catalog-for-the-humboldt-wind-area/) (2022)
 
-[Environmental Data Catalog for the Humboldt Wind Area](https://www.pointblue.org/tools-and-guidance/research/environmental-data-catalog-for-the-morro-bay-wind-energy-area/) (2022)
+[Environmental Data Catalog for the Morro Bay Wind Energy Area](https://www.pointblue.org/tools-and-guidance/research/environmental-data-catalog-for-the-morro-bay-wind-energy-area/) (2022)
 
-Supported Point Blue Conservation Science in the preparation of two separate environmental data catalogs for the Humboldt Bay and Morro Bay offshore wind energy areas, which were used to support California resource agencies during their coastal consistency review of a federal offshore wind lease sale that was held December 2022.
+SeaJay supported Point Blue Conservation Science in the preparation of two separate environmental data catalogs for the Humboldt Bay and Morro Bay offshore wind energy areas. Primary author of sections 1 through 4 and 7. The reports were submitted to the California Ocean Protection Council to support the state's resource agencies during their coastal consistency review of a federal offshore wind lease sale that was held in December 2022. 
 
 ___
 
@@ -36,7 +38,7 @@ ___
 
 [Invasive House Mice Eradication Project "DRAFT Non-Target Species Contingency Plan" (see Appendix G, see page 146 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
 
-Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. These plans had been request in draft form by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge. The plans were requested to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
+Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. These plans had been requested by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge offshore San Francisco. The plans were requested to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
 
 ___
 
@@ -46,7 +48,7 @@ Expansion Project](https://smharbor.specialdistrict.org/files/3cb8f6bc3/2016_10_
 SeaJay Environmental conducted an on-site and desk-top assessment of 
 biological resources in the vicinity of the Half Moon Bay Yacht Club in 
 Pillar Point Harbor, California, for an eventual coastal development permit 
-related to a dock expansion project. 
+related to a proposed dock expansion project. 
 
 
 ___
@@ -72,9 +74,9 @@ stormwater monitoring pilot project with the County of San Mateo Department of
 Public Works and Parks. The monitoring was conducted to evaluate several 
 types of structural stormwater treatment best management practices and low 
 impact development practices that the county had implemented at six 
-locations where stormwater discharges into the protected James V. 
-Fitzgerald Area of Special Biological Significance in Montara and Moss 
-Beach, CA.
+locations where stormwater discharged into the James V. 
+Fitzgerald Area of Special Biological Significance protected area of Montara and Moss 
+Beach, California.
 ___
 
 [An Assessment of the Final Rule to Implement Vessel Speed Restrictions to 

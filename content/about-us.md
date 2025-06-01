@@ -1,9 +1,12 @@
 ---
-title: About Us
-weight: 1
+Title: "About Us"
+# weight: 10
+hideSummary: false
+comments: false
+draft: false
 ---
 
-**SeaJay Environmental LLC** is a small, woman-owned business specializing in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects who can provide the highest level of support and expert advice to save money and time to meet critical deadlines. 
+**SeaJay Environmental LLC** is a small business with more than 30 years of experience in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to save money and time while meeting critical deadlines. 
 
 Our core areas of work include: 
 
@@ -16,10 +19,27 @@ Our core areas of work include:
 * Tracking of the administrative record including agency correspondence and community feedback
 * Litigation support and quality reviews to ensure documents are written clearly and are legally defensible
 * Preparation of pollution prevention, spill response, and best management practices plans
-* Analysis and advice regarding emerging federal and state policy concerns
+* Analysis of federal and state energy and envionmental policies and legislation
 
-It is our mission to provide seamless environmental consulting support services to clients to help manage risk and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews. 
+It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the resource agencies. 
 
+**Our Clients** range from federal agencies, non-profit organizations, large corporations, to small enterprises. Here is a sampling:
+
+* U.S. Fish and Wildlife Service
+* NOAA Fisheries (National Marine Fisheries Service)
+* Greater Farallones National Marine Sanctuary
+* Bureau of Reclamation
+* San Francisco Estuary Institute
+* WeberReadiness
+* Shell Oil Company
+* 48 North Solutions
+* Bay Ship & Yacht
+* Kelley Drye & Warren LLP
+* Michels Risk Management
+* Moffatt & Nichol
+* Offshore Operators Committtee
+* San Matao County Harbor District
+* Walsh Perú
 
 ![platform](platform.png)
 
@@ -34,6 +54,3 @@ was being considered for decommissioning as a possible artificial reef.
 * NAICS 541620 (Env. Consulting Services)
 * DUNS #967690079
 * CAGE Code 6BXY3 
-
-
-## [Statement of qualifications](qualifications.pdf)
