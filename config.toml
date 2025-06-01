@@ -2,7 +2,7 @@
 baseurl = "https://seajayenv.com"
 title = "SeaJay Environmental"
 languageCode = "en-us"
-theme = "ananke"
+theme = ["PaperMod"]
 publishDir = "./"
 
 MetaDataFormat = "yaml"

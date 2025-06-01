@@ -1,8 +1,10 @@
-+++
-title = "Reports"
-draft = false
-weight = 30
-+++
+---
+Title: "Reports"
+# weight: 30
+hideSummary: false
+comments: false
+draft: false
+---
 
 ## Reports resulting from SeaJay Environmental project support
 
