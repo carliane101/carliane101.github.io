@@ -1,4 +1,7 @@
-# About Us
+---
+title: About Us
+weight: 1
+---
 
 **SeaJay Environmental LLC** is a small, woman-owned business specializing in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects who can provide the highest level of support and expert advice to save money and time to meet critical deadlines. 
 
