@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SeaJay Environmental</title>
+    <link>https://seajayenv.com/</link>
+    <description>Recent content on SeaJay Environmental</description>
+    <image>
+      <title>SeaJay Environmental</title>
+      <url>https://seajayenv.com/static/images/bg.jpg</url>
+      <link>https://seajayenv.com/static/images/bg.jpg</link>
+    </image>
+    <generator>Hugo -- 0.146.4</generator>
+    <language>en</language>
+    <atom:link href="https://seajayenv.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://seajayenv.com/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://seajayenv.com/about-us/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SeaJay Environmental LLC&lt;/strong&gt; is a small business with more than 30 years of experience in project management support to the maritime and clean energy industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to save money and time while meeting critical deadlines.&lt;/p&gt;
+&lt;p&gt;Our core areas of work include:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>https://seajayenv.com/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://seajayenv.com/contact-us/</guid>
+      <description>&lt;h2&gt;&lt;a href=&#34;mailto:carliane@seajayenv.com&#34;&gt;carliane@seajayenv.com&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;tel:+4154846985&#34;&gt;+1(415) 484-6985&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reports</title>
+      <link>https://seajayenv.com/reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://seajayenv.com/reports/</guid>
+      <description>&lt;h2 id=&#34;reports-resulting-from-seajay-environmental-project-support&#34;&gt;Reports resulting from SeaJay Environmental project support&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usbr.gov/uc/progact/amp/amwg/2024-08-22-amwg-meeting/20240822-AMWGMeeting-Minutes-508-AMWQD.pdf&#34;&gt;Glen Canyon Dam Adaptive Management Program - Minutes of the Working Group&lt;/a&gt; (2025)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usbr.gov/uc/progact/amp/twg/2023-04-13-twg-meeting/20230413-TWGMeeting-FinalMeetingMinutes-508-UCRO.pdf&#34;&gt;Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group&lt;/a&gt; (2023)&lt;/p&gt;
+&lt;p&gt;SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee of the U.S. Department of Interior&amp;rsquo;s Bureau of Land Management, which is mandated by Congress to operate the Glen Canyon Dam and regulate the Colorado River to meet the many and varied statutory goals. The Glen Canyon Dam Adaptive Management Program provides a forum to bring these varied interests to a consensus on protecting downstream resources while balancing river operations. Members include federal cooperating agencies, Tribes, Colorado River basin states, environmental groups, recreation interests, and contractors for federal power from the Glen Canyon Dam.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
