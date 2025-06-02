@@ -1,0 +1,9 @@
+{{- with site.Params.homeInfoParams }}
+  <div class="about-us">
+    {{ with $.Site.GetPage "about-us" }}
+      <article class="post-content">
+        {{ .Content }}
+      </article>
+    {{ end }}
+  </div>
+{{- end -}}
