@@ -1,0 +1,10 @@
+
+/* Apply to the site header */
+header {
+    background-image: url('/images/bg.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 200px; /* Adjust as needed */
+}
+
