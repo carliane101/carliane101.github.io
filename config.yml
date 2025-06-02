@@ -24,15 +24,15 @@ params:
   description: "Providing project management support from land to sea"
   keywords: [Environment, Consult, SWOB]
   author: "Carliane Johnson"
-  images: ["/static/images/bg.jpg"]
+  images: ["/images/bg.jpg"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # auto, dark, light
+  defaultTheme: light # auto, dark, light
   disableThemeToggle: true
 
   ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
@@ -43,21 +43,21 @@ params:
   comments: false
   hideSummary: false
   hideMeta: true
-  showtoc: true
+  showtoc: false
   tocopen: true
   headerBackground: "/images/bg.jpg"
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/static/images/bg.jpg"
+    favicon: "/images/bg.jpg"
     # favicon16x16: "<link / abs url>"
     # favicon32x32: "<link / abs url>"
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "About Us"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -141,9 +141,12 @@ menu:
 #      name: tags
 #      url: /tags/
 #      weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
+
 markup:
+  defaultMarkdownHandler: goldmark
   highlight:
     noClasses: false
     # anchorLineNos: true
@@ -152,3 +155,8 @@ markup:
     # lineNos: true
     # style: monokai
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
