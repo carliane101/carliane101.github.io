@@ -30,15 +30,15 @@ SeaJay supported Point Blue Conservation Science in the preparation of two separ
 ___
 
 
-[Invasive House Mice Eradication Project "DRAFT Operatoinal Plan" (see Appendix D, page 44 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
+[Invasive House Mice Eradication Project "DRAFT Operational Plan" (see Appendix D, page 45 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
 
 [Invasive House Mice Eradication Project "DRAFT Mitigation and Monitoring Plan" (see Appendix E, page 87 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
 
 [Invasive House Mice Eradication Project "DRAFT Bait Spill Contingency Plan" (see Appendix F, page 112 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
 
-[Invasive House Mice Eradication Project "DRAFT Non-Target Species Contingency Plan" (see Appendix G, see page 146 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
+[Invasive House Mice Eradication Project "DRAFT Non-Target Species Contingency Plan" (see Appendix G, see page 147 of the Coastal Commission's staff report)](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2021)
 
-Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. These plans had been requested by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge offshore San Francisco. The plans were requested to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
+Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepared the following documents: 1) Operational Plan, 2) Mitigation & Monitoring Plan, 3) Bait Spill Contingency Plan, and 4) Non-Target Species Contingency Plan. These plans had been requested by the California Coastal Commission as part of their federal consistency review of the House Mouse Eradication Project at the Farallon Islands National Wildlife Refuge offshore San Francisco. The plans were needed to obtain the state's concurrence of the final environmental impact statement and to assess the USFWS's approach to mitigating any adverse effects of removing this invasive species from one of the most prolific seabird and pinniped breeding and resting areas along the West Coast.
 
 ___
 
@@ -79,55 +79,25 @@ Fitzgerald Area of Special Biological Significance protected area of Montara and
 Beach, California.
 ___
 
-[An Assessment of the Final Rule to Implement Vessel Speed Restrictions to 
-Reduce the Threat of Vessel Collisions with North Atlantic Right 
-Whales](http://www.nmfs.noaa.gov/pr/pdfs/shipstrike/assessment_nmfsopr48.pdf) 
-(2012)<br>
-National Marine Fisheries Service Office of Protected Resources
+[An Assessment of the Final Rule to Implement Vessel Speed Restrictions to Reduce the Threat of Vessel Collisions with North Atlantic Right Whales, NOAA Technical Memorandum NMFS-OPR-48](https://repository.library.noaa.gov/view/noaa/4207)) 
+(2012)
 
-SeaJay Environmental provided database support and data analysis to the 
-National Marine Fisheries Service that was used to assess the effectiveness 
-of a rule that requires vessels 65 feet and greater in length to slow their 
-speeds to 10 knots or less near key port entrances and in certain areas of 
-North Atlantic right whale aggregation along the U.S. Eastern seaboard, 
-known as Seasonal Management Areas. 
+SeaJay Environmental's data synthesis was used by the National Marine Fisheries Service to assess the effectiveness of a rule that requiredvessels 65 feet and greater in length to slow their speeds to 10 knots or less near key port entrances and in certain areas of North Atlantic right whale aggregation along the U.S. Eastern seaboard, known as Seasonal Management Areas. 
 ___
 
 [Prudent Development: Realizing the Potential of North America’s Abundant 
-Natural Gas and Oil 
-Resources](http://www.npc.org/reports/NARD/NARD_Ops-Environment.pdf) 
-(2011)<br>
-National Petroleum Council
+Natural Gas and Oil Resources](http://www.npc.org/reports/NARD/NARD_Ops-Environment.pdf) (2011)
 
-SeaJay Environmental provided technical and editorial support to the 
-Operations and Environment Subgroup of the National Petroleum Council, a 
-federal advisory committee. The study was requested by Energy Secretary 
-Steven Chu to reassess the character and potential of North American oil 
-and natural gas resources. and the contribution that natural gas can make 
-in a transition to a lower carbon energy mix.
+SeaJay Environmental provided technical and editorial support to the Operations and Environment Subgroup of the NPC, a federal advisory committee of the U.S. Department of Energy (DOE). Secretary Chu had requested the report from the NPC. The report, Prudent Development: Realizing the Potential of North America’s Abundant Natural Gas and Oil Resources, was prepared by a team of experts from industry, state and federal government agencies, conservation groups, financial institutions, and academia. SeaJay's contribution was the Operations and Environment section in chapter 2.
 ___
 
-[Vessel Operations in Right Whale Protection 
-Areas](http://www.nmfs.noaa.gov/pr/pdfs/shipstrike/opr44.pdf) 
-(2009)<br>
-National Marine Fisheries Service Office of Protected Resources
+[Vessel Operations in Right Whale Protection Areas in 2009, NOAA Technical Memorandum NMFS-OPR-44](https://www.fisheries.noaa.gov/resource/document/vessel-operations-right-whale-protection-areas-2009)
+(2010)
 
-SeaJay Environmental created a SQL Server database and assisted in the data 
-analysis to help characterize vessel traffic volume, patterns and speeds of 
-vessels transiting Seasonal Management Areas along the Eastern seaboard. 
-The rule was implemented for the purpose of preventing collisions between 
-ships and the highly depleted North Atlantic right whale. 
+SeaJay Environmental created a SQL Server database and assisted in data processing to characterize vessel traffic volume, patterns, and speeds of vessels transiting Seasonal Management Areas along the U.S. Eastern seaboard. NMFS's Office of Protected Resources prepared the report to assess the first year of the rule's implementation and to determine its potential to prevent collisions between ships and the highly depleted North Atlantic right whale. 
 ___
 
-[Shell Best Management Practices for Blasting and Painting Offshore 
-Facilities](https://www.onepetro.org/conference-paper/SPE-121052-MS) 
-(2009)<br>
-Society of Petroleum Engineers
+[Shell Best Management Practices for Blasting and Painting Offshore Facilities](https://www.onepetro.org/conference-paper/SPE-121052-MS) (2009)
 
-SeaJay Environmental worked with Shell Exploration & Production engineers 
-and operations managers to draft this paper that was presented by Shell at 
-the Society of Petroleum Engineers conference in 2009. The paper describes 
-best practices related to the periodical inspection and maintenance of 
-offshore oil and gas facilities to assure structural integrity and minimize 
-pollution and safety risks.
+SeaJay Environmental worked with Shell Exploration & Production engineers and operations managers to draft this paper that was presented by Shell at the Society of Petroleum Engineers conference in 2009. The paper describes best practices related to the periodical inspection and maintenance of offshore oil and gas facilities to assure structural integrity and minimize pollution and safety risks.
 
