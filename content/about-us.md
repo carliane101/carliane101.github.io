@@ -41,7 +41,7 @@ It is our mission to provide seamless environmental consulting support services 
 * San Matao County Harbor District
 * Walsh Perú
 
-![platform](platform.png)
+![platform](/images/platform.png)
 
 Industry-Government dive expedition to Flower Garden Banks National Marine 
 Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
