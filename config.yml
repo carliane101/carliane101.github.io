@@ -9,7 +9,7 @@ paginate: 0
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
 googleAnalytics: UA-123-45
@@ -19,7 +19,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: nonproduction # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "SeaJay Environmental"
   description: "Providing project management support from land to sea"
   keywords: [Environment, Consult, SWOB]
@@ -36,14 +36,16 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
+  UseHugoToc: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: false
   disableScrollToTop: true
   comments: false
-  hidemeta: false
-  hideSummary: true
-  showtoc: false
-  tocopen: false
+  hideSummary: false
+  hideMeta: true
+  showtoc: true
+  tocopen: true
+  headerBackground: "/images/bg.jpg"
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -76,8 +78,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: SeaJay Environmental LLC
+    Content: Providing project support from land to sea
 
 #  socialIcons:
 #    - name: x
@@ -96,9 +98,9 @@ params:
 #      SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
 #  editPost:
 #    URL: "https://github.com/<path_to_repo>/content"
@@ -116,20 +118,29 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+
+  mainSections:
+    - reports
+    - contact-us
+
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: reports
+      name: Reports
+      url: /reports
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    - identifier: contact-us
+      name: Contact Us
+      url: /contact-us
+      weight: 20
+#    - identifier: categories
+#      name: categories
+#      url: /categories/
+#      weight: 100
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
