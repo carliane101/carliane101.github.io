@@ -37,7 +37,7 @@ It is our mission to provide seamless environmental consulting support services 
 * Kelley Drye & Warren LLP
 * Michels Risk Management
 * Moffatt & Nichol
-* Offshore Operators Committtee
+* Offshore Operators Committee
 * San Matao County Harbor District
 * Walsh Perú
 
