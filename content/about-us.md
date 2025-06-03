@@ -6,9 +6,9 @@ comments: false
 draft: false
 ---
 
-**SeaJay Environmental LLC** is a small business with more than 30 years of experience in project management support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to save money and time while meeting critical deadlines. 
+**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California that has more than 30 years of experience in project management support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members provide the highest level of support and expert advice to meet critical deadlines. 
 
-Our core areas of work include: 
+Core areas of work include: 
 
 * Permitting feasibility, strategy, and application preparation
 * Regulatory compliance including workplace training and annual drills and exercises
@@ -23,7 +23,7 @@ Our core areas of work include:
 
 It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the resource agencies. 
 
-**Our Clients** range from federal agencies, non-profit organizations, large corporations, to small enterprises. Here is a sampling:
+**Our clients** range from federal agencies, non-profit organizations, large corporations, to small enterprises. Here is a sampling:
 
 * U.S. Fish and Wildlife Service
 * NOAA Fisheries (National Marine Fisheries Service)
@@ -52,5 +52,3 @@ was being considered for decommissioning as a possible artificial reef.
 * System for Award Management (SAM.gov) Unique Entity ID SD92UNFSQK64
 * California Department of General Services #1738217
 * NAICS 541620 (Env. Consulting Services)
-* DUNS #967690079
-* CAGE Code 6BXY3 
