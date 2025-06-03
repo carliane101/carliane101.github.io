@@ -6,7 +6,7 @@ comments: false
 draft: false
 ---
 
-**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team members will provide the highest level of support and expert advice to meet critical deadlines. 
+**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team ensures the highest level of support and expert advice to meet critical deadlines. 
 
 Core areas of work include: 
 
@@ -51,6 +51,10 @@ was being considered for decommissioning as a possible artificial reef.
 (Photo by Carliane Johnson)
 
 **SeaJay Environmental** operates under the following codes:
+
 System for Award Management (SAM.gov) Unique Entity ID SD92UNFSQK64
+
 California Department of General Services Small Business (Micro Business) #1738217
-NAICS 541620 (Environmental Consulting Services) and NAICS Code 541611 (Administrative Management and General Management Consulting Services)
+
+NAICS 541620 (Environmental Consulting Services)
+NAICS Code 541611 (Administrative Management and General Management Consulting Services)
