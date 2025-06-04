@@ -6,7 +6,7 @@ comments: false
 draft: false
 ---
 
-**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams designed specifically for your projects. Our senior and principle-level team ensures the highest level of support and expert advice to meet critical deadlines. 
+**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams of senior and principal-level consultants. The team is designed specifically for your project, which ensures the highest level of support and expert advice to meet on-time deadlines under a cost competitive business structure. 
 
 Core areas of work include: 
 
