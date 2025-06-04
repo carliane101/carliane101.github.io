@@ -14,7 +14,7 @@ Core areas of work include:
 * Permitting feasibility, strategy, and application preparation
 * Regulatory compliance including workplace safety training and annual drills and exercises
 * Non-technical risk assessment and gaps analysis
-* Preparation of environmental or biological assessment
+* Preparation of environmental or biological assessments
 * Agency consultations and stakeholder engagement
 * Technical editing and due diligence to secure financial backing
 * Tracking of the administrative record including agency correspondence and community feedback
