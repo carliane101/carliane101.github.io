@@ -23,7 +23,7 @@ Core areas of work include:
 
 It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the resource agencies. 
 
-**Our clients** range from federal agencies, harbor districts, non-profit organizations, and from large corporations to small enterprises. Here is a sampling:
+**Our direct clients or those we have subcontracted to** include federal agencies, harbor districts, non-profit organizations, large corporations, and small enterprises. Here is a sampling:
 
 * U.S. Fish and Wildlife Service
 * NOAA Fisheries (National Marine Fisheries Service)
