@@ -10,7 +10,7 @@ draft: false
 
 Core areas of work include: 
 
-* State and federal renewable energy policy and legislative analysis 
+* State and federal renewable energy policy and regulatary affairs analysis
 * Permitting feasibility, strategy, and application preparation
 * Regulatory compliance including workplace safety training and annual drills and exercises
 * Non-technical risk assessment and gaps analysis
