@@ -29,7 +29,7 @@ It is our mission to provide seamless environmental consulting support services 
 * NOAA Fisheries (National Marine Fisheries Service)
 * Greater Farallones National Marine Sanctuary
 * Bureau of Reclamation
-* San Matao County Harbor District
+* San Mateo County Harbor District
 * San Francisco Estuary Institute
 * WeberReadiness
 * Shell Oil Company
