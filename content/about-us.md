@@ -12,7 +12,7 @@ Core areas of work include:
 
 * State and federal renewable energy policy and legislative analysis 
 * Permitting feasibility, strategy, and application preparation
-* Regulatory compliance (including workplace safety training and annual drills and exercises)
+* Regulatory compliance including workplace safety training and annual drills and exercises
 * Non-technical risk assessment and gaps analysis
 * Preparation of environmental or biological assessment
 * Agency consultations and stakeholder engagement
