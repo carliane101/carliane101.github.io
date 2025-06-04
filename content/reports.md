@@ -12,7 +12,7 @@ draft: false
 
 [Glen Canyon Dam Adaptive Management Program - Minutes of the Technical Advisory Group](https://documents.coastal.ca.gov/reports/2021/12/Th11b/Th11b-12-2021-appendices.pdf) (2023)
 
-SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee of the U.S. Department of Interior's Bureau of Land Management, which is mandated by Congress to operate the Glen Canyon Dam and regulate the Colorado River to meet the many and varied statutory goals. The Glen Canyon Dam Adaptive Management Program provides a forum to bring these varied interests to a consensus on protecting downstream resources while balancing river operations. Members include federal cooperating agencies, Tribes, Colorado River basin states, environmental groups, recreation interests, and contractors for federal power from the Glen Canyon Dam.
+SeaJay Environmental provided note taking and other administrative support services to this Federal Advisory Committee of the U.S. Department of Interior's Bureau of Land Management (BLM). Congress has mandated that BLM operate the Glen Canyon Dam and regulate the Colorado River to meet various statutory goals. The Glen Canyon Dam Adaptive Management Program is the forum to bring the varied interests along the Colorado River to consensus regarding the protection of downstream resources and the balancing of river operations. Members include federal cooperating agencies, Tribes, Colorado River basin states, environmental groups, recreation interests, and contractors for federal power from the Glen Canyon Dam.
 ___
 
 [California Floating Offshore Wind Regional Ports Feasibility Analysis](https://www.boem.gov/sites/default/files/documents/regions/pacific-ocs-region/BOEM-2023-038.pdf#:~:text=The%20purpose%20of%20this%20report%20is%20to%20further,Ports%20Assessment%2C%20BOEM%202023-010%20%28Moffatt%20%26%20Nichol%202023%29) (2023)
@@ -25,7 +25,7 @@ ___
 
 [Environmental Data Catalog for the Morro Bay Wind Energy Area](https://www.pointblue.org/tools-and-guidance/research/environmental-data-catalog-for-the-morro-bay-wind-energy-area/) (2022)
 
-SeaJay supported Point Blue Conservation Science in the preparation of two separate environmental data catalogs for the Humboldt Bay and Morro Bay offshore wind energy areas. Primary author of sections 1 through 4 and 7. The reports were submitted to the California Ocean Protection Council to support the state's resource agencies during their coastal consistency review of a federal offshore wind lease sale that was held in December 2022. 
+SeaJay supported Point Blue Conservation Science in the preparation of two separate environmental data catalogs for the Humboldt Bay and Morro Bay offshore wind energy areas and was the primary author of sections 1 through 4 and 7. These reports were submitted to the California Ocean Protection Council to support the state resource agencies during their coastal consistency review of a federal offshore wind lease sale that was held in December 2022. 
 
 ___
 
