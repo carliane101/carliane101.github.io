@@ -44,7 +44,7 @@ ___
 
 [Environmental Assessment of Regulation of United States Coast Guard Vessel and Training Dsicharges in Greater Farallones and Cordell Bank National Marine Sanctuaries](https://nmsfarallones.blob.core.windows.net/farallones-prod/media/docs/20180816-ea-regulation-of-uscg-discharges.pdf) (2016) 
 
-As an embedded contractor and the acting permit coordinator for the Greater Farallones National Marine Sanctuary (GFNMS), Carliane at SeaJay Environmental worked closely with GFNMS and Cordell Bank National Marine Sanctuary (CBNMS) staff to prepare a draft of this environmental assessment for the regulation of U.S. Coast Guard vessel and training dsicharges in CBNMS and the newly expanded area of GFNMS. This included coordinating with Coast Guard officials to understand the scope, duration, and magnitude of proposed live fire and search and recovery training activities in the sanctuaries. Also participated in regular calls with sanctuary staff and officials in NOAA headquaters to address information needs for the environmental assessment. 
+As an embedded contractor and the acting permit coordinator for the Greater Farallones National Marine Sanctuary (GFNMS), Carliane at SeaJay Environmental worked closely with GFNMS and Cordell Bank National Marine Sanctuary (CBNMS) staff to prepare a draft of this environmental assessment for the regulation of U.S. Coast Guard vessel and training discharges in CBNMS and the newly expanded area of GFNMS. This included coordinating with Coast Guard officials to understand the scope, duration, and magnitude of proposed live fire and search and recovery training activities in the sanctuaries. Also participated in regular calls with sanctuary staff and officials in NOAA headquaters to address information needs for the environmental assessment. 
 
 ___
 
@@ -85,8 +85,7 @@ Fitzgerald Area of Special Biological Significance protected area of Montara and
 Beach, California.
 ___
 
-[An Assessment of the Final Rule to Implement Vessel Speed Restrictions to Reduce the Threat of Vessel Collisions with North Atlantic Right Whales, NOAA Technical Memorandum NMFS-OPR-48](https://repository.library.noaa.gov/view/noaa/4207)) 
-(2012)
+[An Assessment of the Final Rule to Implement Vessel Speed Restrictions to Reduce the Threat of Vessel Collisions with North Atlantic Right Whales, NOAA Technical Memorandum NMFS-OPR-48](https://repository.library.noaa.gov/view/noaa/4207) (2012)
 
 SeaJay Environmental's data synthesis was used by the National Marine Fisheries Service to assess the effectiveness of a rule that required vessels 65 feet and greater in length to slow their speeds to 10 knots or less near key port entrances and in certain areas of North Atlantic right whale aggregation along the U.S. Eastern seaboard, known as Seasonal Management Areas. 
 ___
