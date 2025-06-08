@@ -42,6 +42,12 @@ Working closely with U.S. Fish and Wildlife Service staff, the SeaJay team prepa
 
 ___
 
+[Environmental Assessment of Regulation of United States Coast Guard Vessel and Training Dsicharges in Greater Farallones and Cordell Bank National Marine Sanctuaries] (https://nmsfarallones.blob.core.windows.net/farallones-prod/media/docs/20180816-ea-regulation-of-uscg-discharges.pdf) (2016) 
+
+As an embedded contractor for the Greater Farallones National Marine Sanctuary (GFNMS), Carliane at SeaJay Environmental worked closely with GFNMS and Cordell Bank National Marine Sanctuary (CBNMS) staff to prepare a draft of this environmental assessment for the regulation of U.S. Coast Guard vessel and training dsicharges in CBNMS and the newly expanded area of GFNMS. This included coordinating with Coast Guard officials to understand the scope, duration, and magnitude of proposed live fire and search and recovery training activities in the sanctuaries. Also participated in regular calls with sanctuary staff and official in NOAA headquaters to address inforamtion needs for the environmental assessment. 
+
+___
+
 [Biological Resources Assessment for the Half Moon Bay Yacht Club Dock 
 Expansion Project](https://smharbor.specialdistrict.org/files/3cb8f6bc3/2016_10_05_HMBYC_Dock_Expansion_Project_Biological%20Assessment_6-10-16.pdf) (2015)
 
@@ -82,7 +88,7 @@ ___
 [An Assessment of the Final Rule to Implement Vessel Speed Restrictions to Reduce the Threat of Vessel Collisions with North Atlantic Right Whales, NOAA Technical Memorandum NMFS-OPR-48](https://repository.library.noaa.gov/view/noaa/4207)) 
 (2012)
 
-SeaJay Environmental's data synthesis was used by the National Marine Fisheries Service to assess the effectiveness of a rule that requiredvessels 65 feet and greater in length to slow their speeds to 10 knots or less near key port entrances and in certain areas of North Atlantic right whale aggregation along the U.S. Eastern seaboard, known as Seasonal Management Areas. 
+SeaJay Environmental's data synthesis was used by the National Marine Fisheries Service to assess the effectiveness of a rule that required vessels 65 feet and greater in length to slow their speeds to 10 knots or less near key port entrances and in certain areas of North Atlantic right whale aggregation along the U.S. Eastern seaboard, known as Seasonal Management Areas. 
 ___
 
 [Prudent Development: Realizing the Potential of North America’s Abundant 
