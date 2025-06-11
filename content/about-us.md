@@ -13,13 +13,13 @@ Core areas of work include:
 * Analysis of state and federal regulatory and legislative initiatives 
 * Permitting feasibility, strategy, and application preparation
 * Fundamentals of offshore wind and ocean renewables (white papers, briefs, trainings, advisory, etc.)
-* Regulatory compliance including workplace safety training and annual drills and exercises
+* Regulatory compliance (workplace safety training and annual drills and exercises)
 * Non-technical risk assessment and gaps analysis
 * Preparation of environmental or biological assessments
 * Agency consultations and stakeholder engagements
-* Document editing and due diligence to secure financial backing
+* Due diligence to secure financial backing
 * Tracking of the administrative record including agency correspondence and community feedback
-* Litigation support and technical quality review to assure documents are written clearly and are legally defensible
+* Litigation support and technical review to assure documents are written clearly and are legally defensible
 * Preparation of pollution prevention, spill response, and best management practices plans
 
 It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the resource agencies. 
