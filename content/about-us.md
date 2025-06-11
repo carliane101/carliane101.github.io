@@ -12,6 +12,7 @@ Core areas of work include:
 
 * Analysis of state and federal regulatory and legislative initiatives 
 * Permitting feasibility, strategy, and application preparation
+* Fundamentals of offshore wind and ocean renewables (white papers, briefs, trainings, advisory, etc.)
 * Regulatory compliance including workplace safety training and annual drills and exercises
 * Non-technical risk assessment and gaps analysis
 * Preparation of environmental or biological assessments
