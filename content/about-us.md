@@ -6,9 +6,11 @@ comments: false
 draft: false
 ---
 
-**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams of senior and principal-level consultants. The team is designed specifically for your project, which ensures the highest level of support and expert advice to meet on-time deliverables under a cost competitive business structure. 
+**SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams of senior and principal-level consultants. The teams are designed specifically for your projects, which ensures the highest level of support and expert advice to meet on-time deliverables under a cost competitive business structure. 
 
-Alternatively, if you have a small project, the firm's owner and principal consultant is Carliane Johnson, who works solo aand can easily accomplish the deliverables in the subject areas listed below. Please get in touch with us to discuss your projects whether they require a team of experts or just one dedicated professional.
+Alternatively, as a solo environmental consultant, the firm's owner and principal environmental scientist offers a flexible alternative for certain types of projects that may not require the resources of a large consulting firm. This tends to result in faster response times and more streamlined decision-making particularly in the feasibility stages when projects scopes may change a lot or for smaller-scale environmental tasks. 
+
+Please get in touch with us to discuss your projects -- whether they require a team of experts or just one dedicated professional. It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. We know that quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the agencies. 
 
 **Core areas of work include:** 
 
@@ -23,8 +25,6 @@ Alternatively, if you have a small project, the firm's owner and principal consu
 * Tracking of the administrative record including agency correspondence and community feedback
 * Litigation support and technical review to assure documents are written clearly and are legally defensible
 * Preparation of pollution prevention, spill response, and best management practices plans
-
-It is our mission to provide seamless environmental consulting support services to clients to help derisk their projects and protect the environment. Quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews by the resource agencies. 
 
 **Our direct clients or those we have subcontracted to** include federal agencies, harbor districts, non-profit organizations, large corporations, and small enterprises. Here is a sampling:
 
