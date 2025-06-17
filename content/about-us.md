@@ -10,7 +10,7 @@ draft: false
 
 Alternatively, as a solo environmental consultant, the firm's owner and principal environmental scientist offers a flexible alternative for certain types of projects that may not require the resources of a large consulting firm. This tends to result in faster response times and more streamlined decision-making particularly in the feasibility stages when project scopes may change frequently or for smaller-scale environmental tasks. 
 
-Please get in touch with us to discuss your projects -- whether they require a team of experts or just one dedicated professional. It is our mission to provide seamless environmental consulting support services that will help de-risk projects. We know that quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews. 
+Please get in touch with us to discuss your project -- whether it requires a team of experts or just one dedicated professional. It is our mission to provide seamless environmental consulting support services that will help de-risk projects. We know that quality technical work is paramount to avoiding permit/project delays and facilitating expedient reviews. 
 
 **Core areas of work include:** 
 
