@@ -23,7 +23,7 @@ Please get in touch with us to discuss your project -- whether it requires a tea
 * Agency consultations and stakeholder engagements
 * Due diligence to secure financial backing
 * Tracking of the administrative record including agency correspondence and community feedback
-* Litigation support and technical review to assure documents are written clearly and are legally defensible
+* Litigation support and technical reviews to assure documents are written clearly and are legally defensible
 * Preparation of pollution prevention, spill response, and best management practices plans
 
 **Our direct clients or those we have subcontracted to** include federal agencies, harbor districts, non-profit organizations, large corporations, and small enterprises. Here is a sampling:
@@ -31,15 +31,15 @@ Please get in touch with us to discuss your project -- whether it requires a tea
 * U.S. Fish and Wildlife Service
 * NOAA Fisheries (National Marine Fisheries Service)
 * Greater Farallones National Marine Sanctuary
-* Bureau of Reclamation
+* U.S. Department of the Interior Bureau of Reclamation
 * San Mateo County Harbor District
 * San Francisco Estuary Institute
 * Point Blue Conservation Science
-* WeberReadiness
+* Weber Readiness LLC
 * Shell USA, Inc.
 * Shell New Energies US LLC
 * 48 North Solutions
-* Bay Ship & Yacht
+* Bay Ship & Yacht Co.
 * Kelley Drye & Warren LLP
 * McIntyre Environmental
 * Michels Risk Management
