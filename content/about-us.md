@@ -37,6 +37,7 @@ It is our mission to provide seamless environmental consulting support services 
 * Point Blue Conservation Science
 * WeberReadiness
 * Shell USA, Inc.
+* Shell New Energies US LLC
 * 48 North Solutions
 * Bay Ship & Yacht
 * Kelley Drye & Warren LLP
