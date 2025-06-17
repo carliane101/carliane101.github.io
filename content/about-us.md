@@ -8,6 +8,8 @@ draft: false
 
 **SeaJay Environmental LLC** is a small, woman-owned business based in Oakland, California with more than 30 years of experience in project management and policy support to the offshore energy sector and other blue tech industries. We specialize in managing multi-agency, complex, one-off, and/or controversial projects with hand-picked teams of senior and principal-level consultants. The team is designed specifically for your project, which ensures the highest level of support and expert advice to meet on-time deliverables under a cost competitive business structure. 
 
+Alternatively, if you have a small project, the firm's owner and principal consultant is Carliane Johnson, who loves doing work solo, if they are in the specific subject areas listed below. Please get in touch for examples of work, references, and price quote. 
+
 **Core areas of work include:** 
 
 * Analysis of state and federal regulatory and legislative initiatives 
@@ -59,3 +61,5 @@ System for Award Management (SAM.gov) Unique Entity ID SD92UNFSQK64
 California Department of General Services Small Business (Micro Business) #1738217
 
 NAICS 541620 (Environmental Consulting Services)
+
+NAICS 541618 (Other Management Consulting Services)
