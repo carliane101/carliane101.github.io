@@ -48,16 +48,16 @@ Please get in touch with us to discuss your project -- whether it requires a tea
 * Walsh Perú
 * Zentner Planning and Ecology
 
-![platform](/images/platform.png)
-
-_Image is from an "Industry-Government" dive expedition to the Flower Garden Banks National Marine Sanctuary in the Gulf, and to High Island 389-A platform, which was being considered for decommissioning as a possible artificial reef. (Photo by Carliane Johnson, dive representative for Shell)_
-
 **SeaJay Environmental** operates under the following codes:
 
 System for Award Management (SAM.gov) Unique Entity ID SD92UNFSQK64
 
-California Department of General Services Small Business (Micro Business) #1738217
+California Department of General Services (DGS) Small Business/Micro Business Enterprise #1738217
 
 NAICS 541620 (Environmental Consulting Services)
 
 NAICS 541618 (Other Management Consulting Services)
+
+![platform](/images/platform.png)
+
+_Image is from an "Industry-Government" dive expedition to the Flower Garden Banks National Marine Sanctuary in the Gulf, and to High Island 389-A platform, which was being considered for decommissioning as a possible artificial reef. (Photo by Carliane Johnson, dive representative for Shell)_
