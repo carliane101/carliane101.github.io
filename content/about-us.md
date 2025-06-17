@@ -36,7 +36,7 @@ It is our mission to provide seamless environmental consulting support services 
 * San Francisco Estuary Institute
 * Point Blue Conservation Science
 * WeberReadiness
-* Shell Oil Company
+* Shell USA, Inc.
 * 48 North Solutions
 * Bay Ship & Yacht
 * Kelley Drye & Warren LLP
