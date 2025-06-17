@@ -49,10 +49,7 @@ It is our mission to provide seamless environmental consulting support services 
 
 ![platform](/images/platform.png)
 
-Industry-Government dive expedition to Flower Garden Banks National Marine 
-Sanctuary in the Gulf of Mexico, and to High Island 389-A platform, which 
-was being considered for decommissioning as a possible artificial reef. 
-(Photo by Carliane Johnson)
+_Image is from an "Industry-Government" dive expedition to the Flower Garden Banks National Marine Sanctuary in the Gulf, and to High Island 389-A platform, which was being considered for decommissioning as a possible artificial reef. (Photo by Carliane Johnson, dive representative for Shell)_
 
 **SeaJay Environmental** operates under the following codes:
 
